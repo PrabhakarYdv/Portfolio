@@ -1,0 +1,50 @@
+* {
+  color: rgb(248, 240, 240);
+}
+
+body {
+  font-family: tahoma;
+  background-color: #425188;
+  padding: 0;
+  margin: 0;
+}
+
+.svg {
+  height: 100px;
+}
+
+#ml-150px {
+  margin-left: 57%;
+}
+
+.logo {
+  color: rgb(255, 255, 255);
+}
+
+.logo-size {
+  font-size: 100px;
+  color: blue;
+}
+
+.colorBlack {
+  color: black;
+}
+
+.p-tool {
+  color: blue;
+  font-size: 40px;
+}
+
+
+.mtop{
+  margin-top: 150px;
+}
+
+.zoom:hover {
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
+.border-hover:hover {
+  border: 2px solid rgb(22, 7, 7); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  box-shadow: 10px 10px 5px grey}
