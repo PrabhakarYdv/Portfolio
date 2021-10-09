@@ -85,3 +85,16 @@ width:  100px;
   width: 200px; 
   height: 200px;
 }
+
+.source-btn-bg{
+  background-color: #b80eda;
+}
+
+.demo-btn-bg{
+  background-color: #d65f10;
+}
+
+.tect-stack-bg{
+  background-color: rgb(88, 238, 225);
+  color: #b80eda;
+}
