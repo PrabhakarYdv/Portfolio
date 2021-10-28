@@ -86,15 +86,51 @@ color: rgb(6, 92, 150);
   height: 200px;
 }
 
-.source-btn-bg{
-  background-color: #b80eda;
+.project{
+  background: #4a6389;
+}
+.project-btn{
+  margin: auto;
+  border-radius: 10px;
+ padding: 10px;
 }
 
-.demo-btn-bg{
+.project-btn,a{
+color: rgb(255, 255, 255);
+text-align: right;
+}
+.source-btn{
+  background-color: #181618;
+  
+}
+
+
+.demo-btn{
   background-color: #d65f10;
 }
 
-.tect-stack-bg{
-  background-color: rgb(88, 238, 225);
-  color: #b80eda;
+.teck-stack{
+  background-color: rgb(255 255 255);
+  color: #ffa500;
 }
+
+.source-btn:hover{
+  background-color: #383138;
+  
+}
+
+.demo-btn:hover{
+  background-color: #8b3b06;
+}
+
+.project-btn,a:hover{
+  color: rgb(255, 255, 255);
+  }
+
+  .teck-stack:hover{
+    cursor: pointer;
+    background: rgb(15, 145, 184);
+    color: rgb(250, 249, 250);
+  }
+
+  
