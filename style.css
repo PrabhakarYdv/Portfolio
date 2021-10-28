@@ -95,9 +95,13 @@ color: rgb(6, 92, 150);
  padding: 10px;
 }
 
+.project-img{
+/* height: 400px; */
+}
 .project-btn,a{
-color: rgb(255, 255, 255);
-text-align: right;
+  color: rgb(255, 255, 255);
+  text-align: right;
+  text-decoration: none;
 }
 .source-btn{
   background-color: #181618;
