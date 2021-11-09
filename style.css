@@ -84,30 +84,32 @@ color: rgb(6, 92, 150);
   padding: 40px;
   width: 200px; 
   height: 200px;
+
 }
 
 .project{
+  max-height: 1500px;
   background: #4a6389;
 }
 .project-btn{
   margin: auto;
   border-radius: 10px;
- padding: 10px;
+  padding: 10px;
 }
 
 .project-img{
-/* height: 400px; */
+height: 400px;
 }
 .project-btn,a{
   color: rgb(255, 255, 255);
   text-align: right;
   text-decoration: none;
 }
-.source-btn{
-  background-color: #181618;
-  
-}
 
+
+.source-btn{
+   background-color: #181618;
+  }
 
 .demo-btn{
   background-color: #d65f10;
@@ -122,6 +124,7 @@ color: rgb(6, 92, 150);
   background-color: #383138;
   
 }
+
 
 .demo-btn:hover{
   background-color: #8b3b06;
